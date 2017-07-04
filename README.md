@@ -11,8 +11,17 @@
 * Hay una aplicación front que necesita obtener y enviar datos a una API para funcionar correctamente. 
 * El ejercicio consta de dos servicios a los que tendremos que responder. La API que hay que crear es:
 
-1. [GET] - 200 - /api/adventures/characters - devuelve todos los personajes de hora de aventuras del fichero /data/adventures.json
-2. [GET] - 200 - /api/adventures/characters/:id - devuelve el personaje del fichero /data/adventures.json con el id que se indique
+1. Devolver todos los personajes de hora de aventuras del fichero /data/adventures.json
+
+```
+[GET] - 200 - /api/adventures/characters
+```
+
+2. Devolver el personaje del fichero /data/adventures.json con el id que se indique
+
+```
+[GET] - 200 - /api/adventures/characters/:id
+```
 
 * Hay que devolver un codigo 200 si todo ha ido correctamente y un 400 si no ha ido correctamente
 * Los datos se tienen que devolver en formato JSON
