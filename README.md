@@ -54,8 +54,8 @@ node index
 
 ## Estructura del proyecto
 
-| - charla-node-npm-practica: carpeta raíz
-| ---- data: json con los datos que tenemos que enviar al navegaor
-| ---- front: parte front de la práctica. (no hace falta que toquemos nada aquí)
-| ---- index.js: fichero donde desarrollaremos la API de NodeJS
-| ---- package.json: fichero con metainformación del proyecto
+* | - charla-node-npm-practica: carpeta raíz
+* | ---- **data**: json con los datos que tenemos que enviar al navegaor
+* | ---- **front**: parte front de la práctica. (no hace falta que toquemos nada aquí)
+* | ---- **index.js**: fichero donde desarrollaremos la API de NodeJS
+* | ---- **package.json**: fichero con metainformación del proyecto
