@@ -1,0 +1,116 @@
+[
+    {
+        "id": "1",
+        "name": "Finn the Human",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i18/propd_at_char_finn.png",
+        "details": "Finn is a silly kid who wants to become a great hero one day. He might not look too tough, but if there's evil around, he'll slay it. That's his deal."
+    },
+    {
+        "id": "2",
+        "name": "Jake the Dog",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i18/propd_at_char_jake.png",
+        "details": "Finn's best friend is a wise, old dog with a big heart. Jake has the magical ability to stretch and grow. When evil's not running amok, he plays viola with his girlfriend, Lady Rainicorn."
+    },
+    {
+        "id": "3",
+        "name": "Ice King",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i18/propd_at_char_iceking.png",
+        "details": "Armed with a magic crown and an icy heart, the Ice King has only one goal: to secure a wife by any means necessary."
+    },
+    {
+        "id": "4",
+        "name": "Princess Bubblegum",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i18/propd_at_char_princbubb.png",
+        "details": "As a millionaire nerd enthusiast, Princess Bubblegum immerses herself in every branch of geekdom from rocket science to turtle farming."
+    },
+    {
+        "id": "5",
+        "name": "Lady Rainicorn",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i18/propd_at_char_ladyrain.png",
+        "details": "Lady is Princess Bubblegum's loyal and majestic pet. Her love of the viola makes her a perfect match for Jake."
+    },
+    {
+        "id": "6",
+        "name": "Marceline",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i18/propd_at_char_marceline.png",
+        "details": "Marceline is a wild rocker girl. Centuries of wandering the Land of Ooo have made her a fearless daredevil."
+    },
+    {
+        "id": "7",
+        "name": "Lumpy Space Princess",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i18/propd_at_char_lsp.png",
+        "details": "Lumpy Space Princess comes from the cloud-like kingdom of Lumpy Space. She acts like a typical spoiled teenager."
+    },
+    {
+        "id": "8",
+        "name": "Beemo",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i47/at_174x252_beemo.png",
+        "details": "Beemo is much more than just Finn and Jake's roommate. Beemo is also their friend, camera, alarm clock and video game system."
+    },
+    {
+        "id": "9",
+        "name": "Gunter",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i47/at_174x252_gunter.png",
+        "details": "Gunter is the name the Ice King gives to all of his penguin servants, yet he pronounces it differently depending on the penguin's personality."
+    },
+    {
+        "id": "10",
+        "name": "Earl of Lemongrab",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i47/at_174x252_lemongrab.png",
+        "details": "The Earl of Lemongrab is the high-strung, stubborn ruler of the land of Lemongrab, and heir to the Candy Kingdom. He was the first of Princess Bubblegum's experiments gone wrong."
+    },
+    {
+        "id": "11",
+        "name": "Flame Princess",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i47/at_174x252_flameprincess.png",
+        "details": "Flame Princess is a hot-headed princess from the Fire Kingdom and Finn's new crush.  Her flame powers are tied to her emotions, and she's been known to anger quite easily."
+    },
+    {
+        "id": "12",
+        "name": "Peppermint Butler",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i47/at_174x252_peppermintbutler.png",
+        "details": "Peppermint Butler is an inhabitant of the Candy Kingdom and loyal butler to Princess Bubblegum. He has a mysterious past and an undefined relationship with Death."
+    },
+    {
+        "id": "13",
+        "name": "Fionna",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i47/at_174x252_fionna.png",
+        "details": "An alternate, female version of Finn, Fionna the human is just as brave, adventurous and awesome as her male counterpart as she faces off against her enemy, the Ice Queen."
+    },
+    {
+        "id": "14",
+        "name": "Cake",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i47/at_174x252_cake.png",
+        "details": "Cake the cat is an alternate, female version of Jake. She has similar powers that let her stretch, bend and morph her body, and her boyfriend is Lord Monochromicorn."
+    },
+    {
+        "id": "15",
+        "name": "Me-Mow",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i47/at_174x252_memow.png",
+        "details": "Me-Mow is a tiny but dangerous cat from the Guild of Assassins who tried to take out Wildberry Princess in order to be made a full member assassin."
+    },
+    {
+        "id": 16,
+        "name": "Tree Trunks",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i47/at_174x252_treetrunks.png",
+        "details": "Tree Trunks is an elephant friend of Finn and Jake who speaks with a gentle, Southern drawl and lives in the Candy Kingdom. She loves picking apples and making apple pies."
+    },
+    {
+        "id": "17",
+        "name": "Candy People",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i18/propd_at_char_candypeeps.png",
+        "details": "Candy People explode when they are frightened, and they are also very gullible. They live in the candy kingdom."
+    },
+    {
+        "id": "18",
+        "name": "PRINCE GUMBALL",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i64/at_174x252_princegumball.png",
+        "details": "This alternate version of Princess Bubblegum is the beloved ruler of Candy Kingdom. He enjoys baking, and riding his trusty steed, Lord Monochromicorn."
+    },
+    {
+        "id": "19",
+        "name": "MARSHALL LEE",
+        "image": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i64/at_174x252_marshalllee.png",
+        "details": "Marshall Lee is the boy version of Marceline. He's a rockstar vampire king, and one bad little boy."
+    }
+]

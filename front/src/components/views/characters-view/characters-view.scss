@@ -1,0 +1,12 @@
+.character {
+    transition: 1s;
+    opacity: 0.5;
+    display: inline-block;
+
+    &:hover {
+        transform: translate(0em, -1em);
+        cursor: pointer;   
+        opacity: 1;
+    }
+}
+
