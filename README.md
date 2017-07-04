@@ -2,10 +2,20 @@
 
 ## Objetivos
 
+* Primer contacto instalando dependencias con NPM
+* Primer contacto desarrollando y ejecutando Node
+* Primer contacto con librerías como Express para hacer APIS
+
 ## Requisitos de la práctica
 
-Hay una aplicación front que necesita obtener y enviar datos a una API 
-para funcionar correctamente. El ejercicio 
+* Hay una aplicación front que necesita obtener y enviar datos a una API para funcionar correctamente. 
+* El ejercicio consta de dos servicios a los que tendremos que responder. La API que hay que crear es:
+
+1 - [GET] - 200 - /api/adventures/characters - devuelve todos los personajes de hora de aventuras del fichero /data/adventures.json
+2 - [GET] - 200 - /api/adventures/characters/:id - devuelve el personaje del fichero /data/adventures.json con el id que se indique
+
+* Hay que devolver un codigo 200 si todo ha ido correctamente y un 400 si no ha ido correctamente
+* Los datos se tienen que devolver en formato JSON
 
 ## FAQ
 
@@ -25,5 +35,18 @@ como requísito. Es importante ceñirse a los requisitos para que el ejercicio f
 Sin problemas. El ejercicio está pensado para afianzar conceptos y mejorar los mecanismos en los 
 que se trabaja con Node y NPM. Los requisitos son esos y el desarrollo tuyo.
 
+### ¿Cómo se ejecuta la aplicación?
+
+Colocándonos en un terminal dentro del proyecto y lanzando el comando:
+
+```
+node index
+```
 
 ## Estructura del proyecto
+
+| - charla-node-npm-practica: carpeta raíz
+| ---- data: json con los datos que tenemos que enviar al navegaor
+| ---- front: parte front de la práctica. (no hace falta que toquemos nada aquí)
+| ---- index.js: fichero donde desarrollaremos la API de NodeJS
+| ---- package.json: fichero con metainformación del proyecto
