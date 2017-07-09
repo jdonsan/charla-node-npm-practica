@@ -25,6 +25,7 @@
 
 * Hay que devolver un codigo 200 si todo ha ido correctamente y un 400 si no ha ido correctamente
 * Los datos se tienen que devolver en formato JSON
+* Escuchar por el puerto 3000
 
 ## FAQ
 
