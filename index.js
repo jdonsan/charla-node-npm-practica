@@ -12,7 +12,7 @@
  * es un buen sitio para buscarlo.
  * 
  * Si cuando ejecutes tu script, tienes problemas para que NodeJS
- * encuentre estos paquetes, RECUERDA las lección de NPM
+ * encuentre estos paquetes, RECUERDA la lección de NPM
  */
 var fs = require('fs');
 var express = require('express');
@@ -43,36 +43,12 @@ app.use(express.static('front/dist'));
  *  -   utf8
  *  -   __dirname
  */
-app.get('/api/adventures/characters', function (req, res) {
-    fs.readFile(__dirname + '/data/adventures.json', 'utf8', function (error, adventures) {
-        if (error) {
-            console.log(error);
-            res.status(400).json({ message: 'No es posible obtener los personajes de hora de aventuras' });
-        }
 
-        res.status(200).json(JSON.parse(adventures));
-    });
-});
 
-app.get('/api/adventures/characters/:id', function (req, res) {
-    fs.readFile(__dirname + '/data/adventures.json', 'utf8', function (error, adventures) {
-        if (error) {
-            console.log(error);
-            res.status(400).json({ message: 'No es posible obtener el personaje de hora de aventuras' });
-        }
-
-        var characters = JSON.parse(adventures);
-        var character = characters.find((character) => character.id === req.params.id);
-
-        res.status(200).json(character);
-    });
-});
 
 /**
+ * 4. Levantar servidor
  * En esta parte del código tenemos que hacer que 
  * nuestra aplicación se encuentre escuchando en
  * el puerto 300
  */
-app.listen(3000, function () {
-    console.log('API escuchando en el puerto 3000');
-});
